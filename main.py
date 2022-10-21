@@ -1,5 +1,4 @@
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters
-import googletrans
 from googletrans import Translator
 
 TOKEN = open("config/token.config.dist", "r").read().strip()

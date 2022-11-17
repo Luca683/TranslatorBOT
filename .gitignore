@@ -1,1 +1,5 @@
 config/token.config.dist
+**/__pycache__
+**/*.pyc
+**/.DS_Store
+.coverage
